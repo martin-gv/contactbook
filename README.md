@@ -23,13 +23,7 @@ Then view in a web browser http://localhost:8080/contactbook
 ```
 npm run build
 ```
-Then upload files in the `/dist` folder to your server at a `/contactbook` subdirectory. If you want to deploy at the root domain, modify the `publicPath` variable in the config file `vue.config.js` so it looks like this:
-
-```
-module.exports = {
-  publicPath: "./"
-};
-```
+Then upload files in the `/dist` folder to your server.
 
 ## Features
 
