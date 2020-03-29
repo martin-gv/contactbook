@@ -6,7 +6,7 @@ A contact book web-app built using [Vue.js](https://vuejs.org/) single file comp
 
 ## Live Demo
 
-**[https://martin-gv.com/contactbook](https://martin-gv.com/contactbook)**
+**[https://contactbook.martin-gv.com](https://contactbook.martin-gv.com)**
 
 ## Installation
 
@@ -16,6 +16,7 @@ A contact book web-app built using [Vue.js](https://vuejs.org/) single file comp
 npm install
 npm run serve
 ```
+
 Then view in a web browser http://localhost:8080/contactbook
 
 #### Build for deployment:
@@ -23,6 +24,7 @@ Then view in a web browser http://localhost:8080/contactbook
 ```
 npm run build
 ```
+
 Then upload files in the `/dist` folder to your server.
 
 ## Features
